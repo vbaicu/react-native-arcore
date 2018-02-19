@@ -1,0 +1,3 @@
+rootProject.name = 'RNARCore'
+
+include ':app'
